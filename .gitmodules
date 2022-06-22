@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bfsl"]
+	path = bfsl
+	url = https://github.com/pasturm/bfsl
+	shallow = true
+	registered = true
